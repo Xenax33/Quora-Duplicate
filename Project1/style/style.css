@@ -165,7 +165,7 @@ section .Login .heading .form .inputbox input
   color: #fff;
   text-decoration: none;
 }
-.Login .heading .form .links button
+.Login .heading .form .links a
 {
   color: rgb(255, 30, 0);
   text-decoration: none;
