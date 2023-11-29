@@ -1,0 +1,64 @@
+body{
+    background-color: #fafaec !important;
+}
+
+.navbar-brand {
+    font-size: x-large;
+    font-style: italic;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-right: 5px;
+    margin-bottom: 0px;
+  }
+
+  .nav-link:hover {
+    color: #f73737;
+    text-decoration: underline;
+  }
+
+  .nav-link {
+    padding-right: 0.5rem;
+    padding-left: 0.5rem;
+    font-size: 20px;
+    font-family: "Poppins";
+    color: rgb(14, 10, 10);
+  }
+
+  .navbar-nav .nav-link.active {
+    color: #f73737;
+  }
+
+  .navbar{
+    padding-left: 5%;
+    padding-right: 5%;
+    box-shadow: gray;
+  }
+
+  .img{
+    box-sizing: border-box;
+    width: 750px;
+  }
+
+  .qbox{
+    box-sizing: border-box;
+    padding-left: 17%;
+    padding-top: 5%;
+    width: 856px
+  }
+
+.heading h3{
+    font-weight: bold;
+    font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+  }
+
+.para p{
+    margin-top: 8px;
+    font-size: calc(18px * var(--dynamic-font-scale, 1))!important;
+
+}  
+
+.main-card{
+    box-sizing: border-box;
+    padding-top: 5%;
+    display: flex;
+    align-items: center;
+}
